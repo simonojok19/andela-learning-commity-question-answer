@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Simple Application</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="about_profile">ABOUT ME</string>
+    <string name="name">Simon Peter Ojok</string>
+    <string name="track">Track:   Android</string>
+    <string name="country">Country:      Uganda</string>
+    <string name="email">Email:     simonojok19@gmail.com</string>
+    <string name="phone">Phone Number:      +256772241709</string>
+    <string name="username">Slack Username:   Simon Peter Ojok</string>
+    <string name="title">Welcome to ALC 4.0</string>
+    <string name="profile">My Profile</string>
+    <string name="alc">About ALC</string>
+    <string name="home">ALC 4 Phase 1</string>
+</resources>
